@@ -1,1 +1,1 @@
-*~
+rule: always add a wildcard (*~) inside the file so that emacs can't generate file.
